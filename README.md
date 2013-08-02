@@ -1,4 +1,4 @@
 ProjectEuler
 ============
 
-My exercise coding in project Euler
+My program to solve the problems described in website(http://projecteuler.net/problems)
