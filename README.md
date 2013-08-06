@@ -1,4 +1,4 @@
 ProjectEuler
 ============
 
-My program to solve the problems described in website(http://projecteuler.net/problems)
+My program to solve the algorithm problems described in website (http://projecteuler.net/problems)
